@@ -1,0 +1,6 @@
+gym
+stable_baselines3
+ipykernel
+box2d-py
+Box2D
+tensorboard==1.14.0
